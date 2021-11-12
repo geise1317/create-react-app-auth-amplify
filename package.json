@@ -3,13 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@aws-amplify/ui-react": "^1.2.6",
-    "@react-native-masked-view/masked-view": "^0.2.6",
-    "@react-navigation/stack": "^6.0.11",
     "aws-amplify": "^4.2.0",
+    "@aws-amplify/ui-react": "^1.2.6",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-native-gesture-handler": "^1.10.3",
     "react-scripts": "^4.0.3"
   },
   "resolutions": {
